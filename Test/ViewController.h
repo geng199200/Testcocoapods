@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import <AFNetworking.h>
+#import <SDImageCache.h>
 @interface ViewController : UIViewController
 
 
